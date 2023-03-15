@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Iphone12 ProMax",
+            "desc": "Apple Iphone 12 Pro Max 256 Gb",
+            "price": 999,
+            "color": "Blue",
+            "image": "assests/images/iphone.png.png"
+        },
+        {
+            "id": 2,
+            "name": "Fitbti Versa 3",
+            "desc": "Fitbit Fitness Tracking SmartWatch",
+            "price": 450,
+            "color": "Blue",
+            "image": "assests/images/fitbit.png"
+        },
+        {
+            "id": 3,
+            "name": "MacBook Air",
+            "desc": "Apple Macbook Air",
+            "price": 109,
+            "color": "Silver",
+            "image": "assests/images/mackbook.png"
+        },
+        {
+            "id": 4,
+            "name": "Samsung S 20",
+            "desc": "Samsung Electronics",
+            "price": 976,
+            "color": "Silver",
+            "image": "assests/images/s20.png"
+        },
+        {
+            "id": 5,
+            "name": "Samsung s23",
+            "desc": "Samsung Electronics",
+            "price": 1300,
+            "color": "Silver",
+            "image": "assests/images/s23.png"
+        },
+        {
+            "id": 6,
+            "name": "Hp Elite Book",
+            "desc": "Elite Book4 cores",
+            "price": 250,
+            "color": "Silver",
+            "image": "assests/images/hp.png.png"
+        }
+    ]
+}
